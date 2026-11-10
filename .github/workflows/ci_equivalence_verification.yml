@@ -1,4 +1,4 @@
-name: Forge Evolve Equivalence & D2P2 Verification CI
+name: Forge Evolve Equivalence Verification CI
 
 on:
   push:
